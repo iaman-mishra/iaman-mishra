@@ -32,7 +32,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaman-mishra&theme=radical" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman-mishra&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman-mishra&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman-mishra&layout=compact&theme=radical)
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaman-mishra&theme=radical&utcOffset=5" />
