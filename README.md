@@ -53,7 +53,7 @@
     <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
       <strong style="color:white;">High School</strong><br><br>
       <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
-      <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
+      <img src="https://img.shields.io/badge/School-+2 SANFORT WORLD SCHOOL-0d1117?style=flat-square&color=orange"><br>
       <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
     </td>
   </tr>
