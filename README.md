@@ -27,7 +27,7 @@
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ---
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaman-mishra&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaman-mishra&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaman-mishra&theme=radical" />
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaman-mishra&theme=radical" />
 
@@ -35,7 +35,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman-mishra&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaman-mishra&layout=compact&theme=radical)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaman-mishra&theme=radical&utcOffset=5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iaman-mishra&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaman-mishra&theme=radical&utcOffset=5" />
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=iaman-mishra&theme=radical&row=1&column=7)](https://github.com/iaman-mishra)
 
@@ -63,9 +63,9 @@
 
 ## 🌐 Online Presence
 
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
-- 💻 [**GitHub**](https://github.com/digiindia2025)  
-- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
+- 🔗 [**Portfolio Website**](https://iamanmishra.vercel.app/) *(Showcase of my best work)*  
+- 💼 [**LinkedIn**](www.linkedin.com/in/iamanmishra)  
+- 🐦 [**Twitter (X)**](https://x.com/iamanmishra_52)  
+- 💻 [**GitHub**](https://github.com/iaman-mishra)  
+- 📬 [**Email Me**](mailto:amanmishra.5272@gmail.com)
 
